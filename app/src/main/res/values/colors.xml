@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lightsalmon">#FF9B71</color>
+    <color name="ericblack">#252422</color>
+    <color name="Flame">#EB5E28</color>
+    <color name="blackolive">#403D39</color>
+    <color name="timberwolf">#D3D5D4</color>
+    <color name="primary_color">#D3D5D4</color>
+
 </resources>
